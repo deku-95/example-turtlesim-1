@@ -61,3 +61,4 @@ git clone git@github.com:art-e-fact/warp-client.git
 docker build -t turtle2 .
 docker run --env ARTEFACTS_KEY=[YOUR-API-KEY] --net host --env DISPLAY=$DISPLAY -v $(pwd):/turtle turtle2
 ```
+
