@@ -1,6 +1,6 @@
 version: 0.1.0
 
-project: testing-platform # Update to your project name
+project: test-platform-prod # Update to your project name
 jobs:
   basic_tests: # Overall job name
     type: test
